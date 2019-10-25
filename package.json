@@ -1,0 +1,12 @@
+{
+  "name": "router-explore",
+  "version": "1.0.0",
+  "description": "## hash",
+  "main": "index.js",
+  "scripts": {
+    "start": "ws -d ./src/hash -p 3001",
+    "start2": "ws -d ./src/history -p 3002"
+  },
+  "author": "shenxinle",
+  "license": "MIT"
+}
